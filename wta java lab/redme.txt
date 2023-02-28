@@ -1,0 +1,8 @@
+wta lab 
+------------------
+java
+list of programs
+1) print hello world
+--- file1.java
+2) take two numbers and print sum 
+---file2.java
