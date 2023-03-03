@@ -26,6 +26,7 @@ public class CellingAndFlooring {
 
     private static int Celling(int[] arr, int target) {
 
+        if(target> arr[arr.length-1]) return  -1;
         int start=0;
         int end=arr.length-1;
         while (start<=end)
@@ -45,6 +46,7 @@ public class CellingAndFlooring {
         return  end;
 
     }private static int Flooring(int[] arr, int target) {
+        if(target<arr[0]) return -1;
 
         int start=0;
         int end=arr.length-1;
