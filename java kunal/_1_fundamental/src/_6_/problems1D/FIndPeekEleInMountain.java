@@ -1,4 +1,4 @@
-package _6_.binearySearchIntro;
+package _6_.problems1D;
 
 import java.util.Arrays;
 
