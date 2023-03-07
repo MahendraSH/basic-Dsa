@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // wtaJava9.java
-// formated outpurt using  string class
+// formated output using  string class
 
 public class wtaJava9 {
     public static void main(String[] args) {
