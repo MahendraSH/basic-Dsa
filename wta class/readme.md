@@ -73,6 +73,14 @@ question
  write program to accept the marks of students into on 1d arry <br>
  find the total marks and percetage</td>
     </tr>
+      <tr>
+        <td>wtaJava11.java</td>
+        <td>sum of two numbers using command line arguments </td>
+    </tr>
+      <tr>
+        <td>wtaJava12.java</td>
+        <td>sort the list of float using command line args</td>
+    </tr>
     
 </table>
 
