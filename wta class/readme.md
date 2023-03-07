@@ -41,10 +41,11 @@ question
 </td>
     </tr>
       <tr>
-        <td>wtaJava4.java</td>
+        <td>wtaJava5.java</td>
         <td>
   write jav program for taking input name and id and usig <br>
- buffered reader class and readline </td>
+ buffered reader class and readline
+  </td>
     </tr>
     
 </table>
