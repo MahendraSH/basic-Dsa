@@ -55,5 +55,10 @@ question
    
   </td>
     </tr>
+      <tr>
+        <td>wtaJava7.java</td>
+        <td>
+ progam using scanner class takeing emp info</td>
+    </tr>
     
 </table>
