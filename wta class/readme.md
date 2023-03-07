@@ -31,9 +31,9 @@ question
             
  write a program to take a char from keyboard using bufferedReader class
 
-        ``` 
+        
         BufferedReader cin=new BufferedReader(new InputStreamReader(System.in));
-        ```
+        
 </td>
     </tr>
     
