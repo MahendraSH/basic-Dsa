@@ -43,8 +43,16 @@ question
       <tr>
         <td>wtaJava5.java</td>
         <td>
-  write jav program for taking input name and id and usig <br>
+  write java program for taking input name and id and using <br>
  buffered reader class and readline
+  </td>
+    </tr>
+      <tr>
+        <td>wtaJava6.java</td>
+        <td>
+  write java program for taking input name and id and using <br>
+ buffered reader class and readline and strigTokennizer class (util) getnexttoken()<br>
+   
   </td>
     </tr>
     
