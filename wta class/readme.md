@@ -59,6 +59,10 @@ question
         <td>
  progam using scanner class takeing emp info</td>
     </tr>
+      <tr>
+        <td>wtaJava8.java</td>
+        <td> format out using pritf() like c </td>
+    </tr>
     
 </table>
 
