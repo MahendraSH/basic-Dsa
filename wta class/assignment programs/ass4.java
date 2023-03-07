@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // ass4.java
+// sort array using bubble sort
 
 public class ass4 {
     public static void main(String[] args) {
