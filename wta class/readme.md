@@ -61,7 +61,7 @@ question
     </tr>
       <tr>
         <td>wtaJava8.java</td>
-        <td> format out using pritf() like c </td>
+        <td> formated output  using pritf() like c </td>
     </tr>
       <tr>
         <td>wtajava9.java</td>
