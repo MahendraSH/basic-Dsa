@@ -10,6 +10,7 @@ public class wtaJava8 {
           System.out.printf(
             "emp id =%d \n emp name =%s %n emp salary =%f %n",id,name,salary
             );
+        cin.close();
 
     }
 
