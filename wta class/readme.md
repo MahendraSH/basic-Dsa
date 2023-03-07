@@ -37,7 +37,6 @@ question
 
         BufferedReader cin=new BufferedReader(new InputStreamReader(System.in));
 
-
 </td>
     </tr>
       <tr>
@@ -78,7 +77,9 @@ question
         </th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>ass1.java</td>
+        <td>
+ write a program to arthmatic operations using 
+ stringtokennizer class </td>
     </tr>
 </table>
