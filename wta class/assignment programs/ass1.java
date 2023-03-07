@@ -6,8 +6,7 @@ import java.util.StringTokenizer;
 
 
 // ass1.java
-// write a program to arthmatic operations using 
-// stringtokennizer class 
+
 public class ass1  {
     public static void main(String[] args) throws IOException {
         System.out.println("Enter two number ");

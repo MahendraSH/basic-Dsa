@@ -82,4 +82,9 @@ question
  write a program to arthmatic operations using 
  stringtokennizer class </td>
     </tr>
+      <tr>
+        <td>ass2.java</td>
+        <td>
+ print the n fibonachi numbers </td>
+    </tr>
 </table>
