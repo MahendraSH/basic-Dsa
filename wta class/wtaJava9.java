@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 // wtaJava9.java
 // formated output using  string class
 

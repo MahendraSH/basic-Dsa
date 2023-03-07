@@ -18,6 +18,6 @@ public class ass2 {
             count++;
           
         }
-
+           cin.close();
     }
 }

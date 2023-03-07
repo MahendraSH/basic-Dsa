@@ -67,6 +67,12 @@ question
         <td>wtajava9.java</td>
         <td>formated output using string class</td>
     </tr>
+      <tr>
+        <td>wtaJava10.java</td>
+        <td>
+ write program to accept the marks of students into on 1d arry <br>
+ find the total marks and percetage</td>
+    </tr>
     
 </table>
 

@@ -25,6 +25,6 @@ public class ass3 {
         }else{
             System.out.println("not a leap year");
         }
+        cin.close();
     }
-    
 }
