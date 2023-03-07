@@ -35,9 +35,9 @@ question
             
  write a program to take a char from keyboard using bufferedReader class
 
-        
         BufferedReader cin=new BufferedReader(new InputStreamReader(System.in));
-        
+
+
 </td>
     </tr>
       <tr>
@@ -61,4 +61,24 @@ question
  progam using scanner class takeing emp info</td>
     </tr>
     
+</table>
+
+<!-- assigment problems -->
+<table>
+    <tr>
+        <th>
+        <h3>
+        assigment problems
+        </h3>
+        </th>
+        <th>
+        <h3>
+        question 
+        </h3>
+        </th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
