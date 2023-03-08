@@ -13,7 +13,7 @@
     <tr>
         <th>2</th>
         <th>prolab2a,java <br> porlab2b.java</th>
-        <th>Write a Java Programs to demonstrate the usage of the following:
+        <th>Write a Java Programs to demonstrate the usage of the following:<br>
         a. Java’s Primitive Data Types and Literals<br>
         b. Java’s Operators and Expressions<br>
 </th>
