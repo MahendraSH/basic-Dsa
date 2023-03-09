@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>3</th>
-        <th></th>
+        <th>prolab3.java</th>
         <th>Write a Java Programs to demonstrate the usage of the following:<br>
         a. Control structures of Java<br>
         b. Looping structures of Java<br>
