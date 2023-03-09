@@ -28,8 +28,8 @@ public class prolab2b {
         System.out.println("c ="+c);
         System.out.println(a < b && a < c);// false && true = false
         System.out.println(a < b & a < c);// false & true = false
-        System.out.println(a < b || a < c);// false && true = false
-        System.out.println(a < b | a < c);// false & true = false
+        System.out.println(a < b || a < c);// false || true = true
+        System.out.println(a < b | a < c);// false |true = true
 
         int min = (a < b) ? a : b;
         System.out.println("int min=(a<b)?a:b -> min="+min);
