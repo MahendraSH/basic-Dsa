@@ -104,6 +104,7 @@ question
     <tr>
         <td>wtaJava17.java</td>
         <td 
+        
         create a method with out parmeter and with return type
 
   </td>
@@ -133,7 +134,7 @@ question
         <td>
         // static block with out mian <br>
 
- u can cheet jvm in lower version like his but not heigher versions <br>
+u can cheet jvm in lower version like his but not heigher versions <br>
 
    </td>
     </tr>
@@ -150,7 +151,6 @@ question
           inhertance using an exmple <br>
  teacher class and student class which extends from it <br>
 
-
  </td>
     </tr>
 
@@ -160,7 +160,7 @@ question
          if u do not use supper key work <br>
  why to use supper key word <br>
 
- which construct is called in this <br>
+which construct is called in this <br>
 
  </td>
 
@@ -178,6 +178,21 @@ make an obj of sub class and call show method <br>
 
 // why to use supper key word
 
+</td>
+    </tr>
+      <tr>
+        <td>wtaJava26.java</td>
+        <td>// write a class Supper1 with an instance var and show method <br>
+ extend a class sub1 from supper1 and rewite the instance var and show method <br>
+  make  an obj of sub class and call show method <br>
+by using supper keyword
+</td>
+    </tr>
+      <tr>
+        <td>wtaJava27.java</td>
+        <td>
+         two class with inhertance and parmetized constructor <br>
+ with supper key word <br>
 </td>
     </tr>
 
