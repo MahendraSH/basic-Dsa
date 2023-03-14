@@ -11,7 +11,7 @@ class Demo{
         System.out.println("sum = "+(n1+n2));
     }
 }
-public class wtajava16 {
+public class wtaJava16 {
     
     public static void main(String[] args) {
         Demo d =new Demo(10,30);
