@@ -81,7 +81,13 @@ question
         <td>wtaJava12.java</td>
         <td>sort the list of float using command line args</td>
     </tr>
-    
+      <tr>
+        <td>wtaJava13.java</td>
+        <td> person class exmple <br>
+         with name and age and take function
+
+</td>
+    </tr>
 </table>
 
 <!-- assigment problems -->
@@ -118,4 +124,5 @@ leap year progarm chek is leap or not </td>
         <td>ass4.java</td>
         <td>sort array using bubble sort</td>
     </tr>
+
 </table>

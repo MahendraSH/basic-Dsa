@@ -15,5 +15,12 @@ public class wtaJava13{
         p1.name="Mahendra";
         p1.age=22;
         p1.takeFunction();
+        Person p2=new Person();
+        p2.takeFunction();
+        System.out.println("hashcode fo p1 = " + p1.hashCode());
+        System.out.println("hashcode fo p2 = " + p2.hashCode());
+
+        //hashcode is used to exess the object of the class 
+        
     }
 }
