@@ -1,7 +1,7 @@
 // person class exmple 
 // with name and age and take function
 
-public class Person{
+class Person{
     String name;
     int age;
     void takeFunction(){
