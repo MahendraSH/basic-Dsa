@@ -99,12 +99,88 @@ question
     </tr>
       <tr>
         <td>wtaJava16.java</td>
-        <td></td>
+        <td>  create a method with out parmeter and with out return type</td>
     </tr> 
     <tr>
-        <td></td>
-        <td></td>
+        <td>wtaJava17.java</td>
+        <td 
+        create a method with out parmeter and with return type
+
+  </td>
     </tr>
+    </tr>
+      <tr>
+        <td>wtaJava18.java</td>
+        <td>
+         static method in java
+        </td>
+    </tr> 
+    <tr>
+        <td>wtaJava19.java</td>
+        <td>
+        write a progarm to test static method can exess instance variable
+        </td>
+    </tr>
+    </tr>
+      <tr>
+        <td>wtaJava20.java</td>
+        <td>
+        write a progarm to test static method can exess static variable
+         </td>
+    </tr> 
+    <tr>
+        <td>wtaJava21.java</td>
+        <td>
+        // static block with out mian <br>
+
+ u can cheet jvm in lower version like his but not heigher versions <br>
+
+   </td>
+    </tr>
+      <tr>
+        <td>wtaJava22.java</td>
+        <td>
+        instance varible with instance method
+
+</td>
+    </tr>
+      <tr>
+        <td>wtaJava23.java</td>
+        <td>
+          inhertance using an exmple <br>
+ teacher class and student class which extends from it <br>
+
+
+ </td>
+    </tr>
+
+ <tr>
+        <td>wtaJava24.java</td>
+        <td>
+         if u do not use supper key work <br>
+ why to use supper key word <br>
+
+ which construct is called in this <br>
+
+ </td>
+
+  </tr>
+
+ <tr>
+
+ <td>wtaJava25.java</td>
+
+ <td>
+write a class Supper1 with an instance var and show method <br>
+
+extend a class sub1 from supper1 and rewite the instance var and show method <br>
+make an obj of sub class and call show method <br>
+
+// why to use supper key word
+
+</td>
+    </tr>
+
 </table>
 
 <!-- assigment problems -->
