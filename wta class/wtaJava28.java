@@ -1,6 +1,6 @@
 
 
-// protected spacefier inplmentation 
+// protected spacefier implmentation 
 class Demo {
     private int n = 10;
     protected int x = 100;
