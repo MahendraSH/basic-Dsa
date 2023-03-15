@@ -10,8 +10,11 @@ Demonstrate the use of super keyword in inheritance and try to implement the pro
 <br>     c. Use super to call base class constructor</td>
     </tr>
   <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>1</td>
+        <td>day3lab2.java</td>
+        <td>
+//1. Write a Java program to facilitate the multilevel inheritance. <br>
+// (Also demonstrate the use of constructor in multilevel inheritance)
+</td>
     </tr>
 </table>
