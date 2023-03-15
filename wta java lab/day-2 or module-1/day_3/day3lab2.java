@@ -1,9 +1,12 @@
+package day_3;
+//1. Write a Java program to facilitate the multilevel inheritance. <br>
+// (Also demonstrate the use of constructor in multilevel inheritance)
 // multilevel inhertance
 
 class One{
     int n1;
     One(int n1){
-    this.n1=n1;
+        this.n1=n1;
     }
     void display(){
         System.out.println("The one ="+n1);
@@ -17,7 +20,7 @@ class Two extends One{
     }
     void display(){
         System.out.println("The two ="+n2);
-            super.display();
+        super.display();
     }
 }
 class Three extends Two{
@@ -34,14 +37,14 @@ class Three extends Two{
     }
 }
 
-public class wtaJava29 {
-    
+public class day3lab2{
+
     public static void main(String[] args) {
 
-    Three three =new Three(10,20,30);
-    
-    three.display();
+        Three three =new Three(10,20,30);
 
-        
+        three.display();
+
+
     }
 }
