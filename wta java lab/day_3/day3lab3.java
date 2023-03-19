@@ -1,5 +1,10 @@
 package day_3;
 
+// 3. Demonstrate the use of final keyword with respect to <br>
+// a. Variable <br>
+// b. Method <br>
+// c. Class <br>
+
 final class Demo{
     Demo(){
         System.out.println(
