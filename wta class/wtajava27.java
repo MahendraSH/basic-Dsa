@@ -1,20 +1,20 @@
 // two class with inhertance and parmetized constructor 
 // with supper key word
 
-class One {
+class One1 {
     int i;
 
-    public One(int i) {
+    public One1(int i) {
 
         this.i = i;
     }
 
 }
 
-class Two extends One {
+class Two1 extends One1 {
     int j;
 
-    public Two(int i, int j) {
+    public Two1(int i, int j) {
         super(i);
         this.j = j;
 
@@ -28,7 +28,7 @@ class Two extends One {
 
 public class wtajava27 {
     public static void main(String[] args) {
-        Two t = new Two(100, 200);
+        Two1 t = new Two1(100, 200);
         t.show();
 
     }
