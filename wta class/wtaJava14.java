@@ -1,15 +1,15 @@
 
 //  default and parameter constructor
-class Person {
+class PersonOne {
     private int age;
     private String name;
 
-    Person() {
+    PersonOne() {
         name = "sri ram ";
         age = 20;
     }
 
-    Person(String name, int age) {
+    PersonOne(String name, int age) {
         this.age = age;
         this.name = name;
 
@@ -23,8 +23,8 @@ class Person {
 public class wtaJava14 {
     public static void main(String[] args) {
 
-        Person p1 = new Person();
-        Person p2 = new Person("xyz", 20);
+        PersonOne p1 = new PersonOne();
+        PersonOne p2 = new PersonOne("xyz", 20);
         p1.talk();
         p2.talk();
     }
