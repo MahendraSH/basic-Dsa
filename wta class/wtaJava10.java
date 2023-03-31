@@ -22,7 +22,7 @@ public class wtaJava10 {
             System.out.print(arr[i]+" ");
             total += arr[i];
          }
-         float avg =total/arr.length;
+         float avg =(float) total/arr.length;
          System.out.println("The total = "+total +"The avg "+avg);
          
          cin.close();
