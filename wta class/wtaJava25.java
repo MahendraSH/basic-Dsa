@@ -4,14 +4,14 @@
 
 // why to use supper key word
 
-class  Supper1{
+class  SupperOne{
     int i=100;
     public void show(){
         System.out.println("supper1  i = "+i);
     }
 }
 
-class Sub1 extends Supper1{
+class SubOne extends SupperOne{
     int i=200;
     public void show(){
         System.out.println("sub1  i = "+i);
@@ -24,7 +24,7 @@ public class wtaJava25 {
     
     public static void main(String[] args) {
         
-           Sub1 sub=new Sub1();
+           SubOne sub=new SubOne();
            sub.show();
            
     }
