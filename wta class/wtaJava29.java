@@ -1,17 +1,17 @@
 // multilevel inhertance
 
-class One{
+class One2{
     int n1;
-    One(int n1){
+    One2 (int n1){
     this.n1=n1;
     }
     void display(){
         System.out.println("The one ="+n1);
     }
 }
-class Two extends One{
+class Two2 extends One2{
     int n2;
-    Two(int n1,int n2){
+    Two2(int n1,int n2){
         super(n1);
         this.n2=n2;
     }
@@ -20,9 +20,9 @@ class Two extends One{
             super.display();
     }
 }
-class Three extends Two{
+class Three2 extends Two2{
     int n3;
-    Three(int n1,int n2,int n3){
+    Three2(int n1,int n2,int n3){
 
         super(n1,n2);
         this.n3=n3;
@@ -38,7 +38,7 @@ public class wtaJava29 {
     
     public static void main(String[] args) {
 
-    Three three =new Three(10,20,30);
+    Three2 three =new Three2(10,20,30);
     
     three.display();
 
