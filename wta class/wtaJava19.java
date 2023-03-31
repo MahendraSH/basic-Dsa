@@ -1,5 +1,5 @@
 // write a progarm to test static method can exess instance variable
-
+/* 
 class Demo{
     private int n1;
     private int n2;
@@ -13,7 +13,7 @@ public class wtaJava19 {
         System.out.println(Demo.sum());
     }
 }
-
+*/
 
 // wtaJava19.java:8: error: non-static variable n1 cannot be referenced from a static context
 //         return n1+n2;
