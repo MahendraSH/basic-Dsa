@@ -1,3 +1,5 @@
+package assignmentprograms;
+
 // ass2.java
 //  print the n fibonachi numbers 
 import java.util.Scanner;

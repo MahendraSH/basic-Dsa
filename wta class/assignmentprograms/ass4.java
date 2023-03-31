@@ -1,3 +1,4 @@
+package assignmentprograms;
 import java.util.Scanner;
 
 // ass4.java
