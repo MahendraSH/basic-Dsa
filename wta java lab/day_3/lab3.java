@@ -21,6 +21,8 @@ class Demo{
 
 public class lab3 {
     public static void main(String[] args) {
+        
+        FinalClass f1=new FinalClass();
         Demo demo = new Demo();
         demo.showi();
         
