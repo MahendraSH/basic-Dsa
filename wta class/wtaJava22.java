@@ -1,6 +1,6 @@
 // instance varible with instance method
 
-class Demo {
+class Demo4 {
     private int n1 = 10;
 
     void display() {
@@ -10,7 +10,7 @@ class Demo {
 
 public class wtaJava22 {
     public static void main(String[] args) {
-        Demo d = new Demo();
+        Demo4 d = new Demo4();
         d.display();
 
     }
