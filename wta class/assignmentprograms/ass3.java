@@ -1,3 +1,5 @@
+package assignmentprograms;
+
 import java.util.Scanner;
 
 // ass3.java
