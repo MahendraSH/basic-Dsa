@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/fromBookCompleteJava/fromBookCompleteJava.iml" filepath="$PROJECT_DIR$/fromBookCompleteJava/fromBookCompleteJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/java kunal/java kunal.iml" filepath="$PROJECT_DIR$/java kunal/java kunal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kunal, wta,java.iml" filepath="$PROJECT_DIR$/.idea/kunal, wta,java.iml" />
       <module fileurl="file://$PROJECT_DIR$/wta java lab/wta java lab.iml" filepath="$PROJECT_DIR$/wta java lab/wta java lab.iml" />
