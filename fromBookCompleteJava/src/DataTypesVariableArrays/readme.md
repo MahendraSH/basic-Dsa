@@ -8,4 +8,6 @@
 *  ###### pro7 >>>>>> Demonstrate of  variable lifeTime 
 *  ###### pro8 >>>>>> Demonstrate of  variable lifeTime 
 *  ###### pro9 >>>>>> Demonstrate of  variable lifeTime 
-*  ###### pro10>>>>>> type casting 
+*  ###### pro10>>>>>> type casting
+*  ###### pro11>>>>>> automatic type promotion in expression
+*  ###### pro12>>>>>> a
