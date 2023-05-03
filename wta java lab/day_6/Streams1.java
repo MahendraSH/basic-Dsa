@@ -1,12 +1,11 @@
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 
 public class Streams1 {
     public static void main(String[] args) throws IOException ,Exception {
-        FileInputStream fin =new FileInputStream("F:\\kunal, wta,java lab and class\\wta java lab\\day_6\\my.txt");
+
+       FileInputStream fin=new FileInputStream("my.txt");
         BufferedReader cin=new BufferedReader(new InputStreamReader(fin));
+
         String s;
         int countLines =0;
         int countwords =0;
