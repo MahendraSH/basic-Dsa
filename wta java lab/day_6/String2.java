@@ -1,7 +1,7 @@
 public class String2 {
     public static void main(String[] args) {
         String []arr ={
-                "Mahendra","Maahi","ajai","raju","fool"
+                "Mahendra","Maahi","ajax","raju","fool"
         };
         for(int i=0;i< arr.length;i++){
             for(int j=i;j<arr.length;j++){

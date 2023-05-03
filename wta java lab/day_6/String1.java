@@ -17,14 +17,14 @@ public class String1 {
         System.out.println("s2.equals(\"Mahendra\") ="+s2.equals("Mahendra"));
         System.out.println("s2.equalsIgnoreCase(\"Mahendra\")"+s2.equalsIgnoreCase("Mahendra"));
         System.out.println();
-        System.out.println("s start witth ok ="+s.startsWith("ok") );
+        System.out.println("s start with ok ="+s.startsWith("ok") );
         System.out.println("s1 ends with  okay ="+s1.endsWith("okay"));
         System.out.println();
         System.out.println(" s1.indexOf(\"ok\") ="+s1.indexOf("ok"));
         System.out.println("s1.lastIndexOf(\"ok\") ="+s1.lastIndexOf("ok"));
         System.out.println();
         System.out.println("s.replace(\"k\",\"h\")"+s.replace("k","h"));
-        System.out.println(""+s1.replaceAll("ok","notok"));
+        System.out.println("s1.replaceAll(\"ok\",\"notok\")"+s1.replaceAll("ok","notok"));
         System.out.println();
         System.out.println("s.substring(4) ="+s.substring(4));
         System.out.println("s.substring(3,8) ="+s.substring(3,8));

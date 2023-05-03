@@ -9,12 +9,12 @@ public class streams2 {
         System.out.println("Enter the file name ");
         String f=cin.next();
         File file=new File(f);
-        System.out.println(file.exists());
-        System.out.println(file.canWrite());
-        System.out.println(file.canExecute());
-        System.out.println(file.length());
-        System.out.println(file.getAbsolutePath());
+        System.out.println("file extis "+file.exists());
+        System.out.println("file is write able"+file.canWrite());
+        System.out.println("file is excuteable "+file.canExecute());
+        System.out.println("file length "+file.length());
+        System.out.println("file absolute path" +file.getAbsolutePath());
 
-        System.out.println(file.canRead());
-    }
+        System.out.println("file is readable "+file.canRead());
+    }`
 }
