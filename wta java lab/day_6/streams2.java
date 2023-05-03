@@ -16,5 +16,5 @@ public class streams2 {
         System.out.println("file absolute path" +file.getAbsolutePath());
 
         System.out.println("file is readable "+file.canRead());
-    }`
+    }
 }
